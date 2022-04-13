@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(161, 42, 165);
+    text-align: center;
+}
+
+img{
+    height: 300px;
+}
+
+h2,h3,h4,h5{
+    font-size: 34px;
+    color: chartreuse;
+}
+
+h1{
+    color: rgb(217, 255, 0);
+}
+
+h6{
+    color: darkblue;
+    font-size: 36px;
+}
+
+p{
+    font-size: 35px;
+    color: rgb(255, 208, 0);
+}
+
+a{
+    color: rgb(139, 21, 0);
+}
